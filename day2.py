@@ -1,4 +1,3 @@
-
 n= [1, 2, 3, 4, 5]
 print(3 in n)      
 print(6 not in n)  
@@ -14,7 +13,7 @@ print(z is not w)
 
 x= input("Enter first string: ")
 y= input("Enter second string: ")
-z = n + " " + y
+z = x + " " + y
 print("Resultant string:",z)
 
 
