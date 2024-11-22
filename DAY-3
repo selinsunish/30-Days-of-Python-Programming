@@ -1,0 +1,6 @@
+Write a python program to find the square root of a number using math module
+Write a python program to find the factorial of a number using user input
+write a python program to find the hypotenuse of a right angled triangle using math module(Hint:use math.hypot()
+Write a python program to find the sin,cosine,tan values of a number in degrees using math module(Hint 1.first convert the degree into radians using math.radians
+(u may input the value of degree using user input) 2.then find  it in to sin,cos,tan)
+ A python program to find the log(base e) of a number
