@@ -1,0 +1,13 @@
+
+DAYS_IN_YEAR = 365
+WEEKS_IN_YEAR = 52
+MONTHS_IN_YEAR = 12
+years = 27
+total_days = years * DAYS_IN_YEAR
+total_weeks = years * WEEKS_IN_YEAR
+total_months = years * MONTHS_IN_YEAR
+
+print("In 27 years (excluding leap years):")
+print(f"Days: {total_days}")
+print(f"Weeks: {total_weeks}")
+print(f"Months: {total_months}")
