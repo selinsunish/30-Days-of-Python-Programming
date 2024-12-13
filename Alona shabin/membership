@@ -1,7 +1,7 @@
-fruits = ['blue', 'black', 'red']
-if 'apple' in fruits:
+colour= ['blue', 'black', 'red']
+if 'apple' in colour:
     print("pink is in the list.")
-if 'orange' not in fruits:
+if 'orange' not in colour:
     print("blue is not in the list.")
 
 # Identity Operators
