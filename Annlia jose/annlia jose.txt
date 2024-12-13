@@ -37,10 +37,3 @@ elif percentage >= 60:
 
 
 
-
-
-
-
-
-
-ChatGPT can make mistakes
