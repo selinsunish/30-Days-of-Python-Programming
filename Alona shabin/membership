@@ -4,7 +4,7 @@ if 'pink' in colour:
 if 'blue' not in colour:
     print("blue is not in the list.")
 
-# Identity Operators
+
 x = [1, 2, 3]
 y = x  
 z = [1, 2, 3]  
