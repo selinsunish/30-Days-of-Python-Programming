@@ -1,27 +1,3 @@
-a = int(input("Enter the first number: "))
-b= int(input("Enter the second number: "))
-c = int(input("Enter the third number: "))
-
-if a >= b:
-    if a >= c:
-        print("largest =",a)
-    else:
-        print("largest =",c)
-else:
-    if b >= c:
-        print("largest =",b)
-    else:
-        print("largest =", c)
-        
-
-x = int(input("Enter a number: "))
-
-if x % 2 == 0:
-    print(x," is divisible by 2.")
-else:
-    print(x," is not divisible by 2.")
-    
-
 percentage = float(input("Enter your percentage: "))
 
 if percentage > 90:
