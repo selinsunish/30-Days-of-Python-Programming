@@ -1,0 +1,9 @@
+Write a program to copy elements 44 and 55 from the following tuple into a new tuple.
+Given:
+tuple1 = (11, 22, 33, 44, 55, 66)
+Modify the tuple
+Given is a nested tuple. Write a program to modify the first item (22) of a list inside a following tuple to 222
+Given:
+tuple1 = (11, [22, 33], 44, 55)
+ Counts the number of occurrences of item 50 from a tuple
+tuple1 = (50, 10, 60, 70, 50)
