@@ -1,0 +1,9 @@
+Check if all items in the tuple are the same
+tuple1 = (45, 45, 45, 45)(hint: u should use def function for that)
+ Sort a tuple of tuples by 2nd item
+Given:
+tuple1 = (('a', 23),('b', 37),('c', 11), ('d',29))(hint: hint: u should use def function for that)
+ Python function that accepts two numbers as arguments and returns the sum(use def function)
+Python function that accepts different values as parameters and returns a list(hint:start with def my_fruits (f1,f2,,f3,f4) 
+…….
+My_fruits=("Apple","Banana","Grapes","
