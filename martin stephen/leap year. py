@@ -1,0 +1,18 @@
+# Constants for a regular year
+DAYS_IN_YEAR = 365
+WEEKS_IN_YEAR = 52
+MONTHS_IN_YEAR = 12
+
+# Number of years
+years = 27
+
+# Calculations
+total_days = years * DAYS_IN_YEAR
+total_weeks = years * WEEKS_IN_YEAR
+total_months = years * MONTHS_IN_YEAR
+
+# Print the results
+print("In 27 years (excluding leap years):")
+print(f"Days: {total_days}")
+print(f"Weeks: {total_weeks}")
+print(f"Months: {total_months}")
