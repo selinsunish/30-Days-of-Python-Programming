@@ -1,7 +1,7 @@
 colour= ['blue', 'black', 'red']
-if 'apple' in colour:
+if 'pink' in colour:
     print("pink is in the list.")
-if 'orange' not in colour:
+if 'blue' not in colour:
     print("blue is not in the list.")
 
 # Identity Operators
