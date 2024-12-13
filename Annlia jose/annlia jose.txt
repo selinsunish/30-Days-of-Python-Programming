@@ -1,0 +1,46 @@
+DAY 4
+
+1st question
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+num3 = float(input("Enter the third number: "))
+if num1 >= num2:
+    if num1 >= num3:
+        largest = num1
+    else:
+        largest = num3
+else:
+    if num2 >= num3:
+        largest = num2
+    else:
+        largest = num3
+print(f"The largest number is: {largest}")
+
+2nd question
+number = int(input("Enter a number: "))
+if number % 2 == 0:
+    print(f"The number {number} is divisible by 2.")
+else:
+    print(f"The number {number} is not divisible by 2.")
+
+3rd question
+percentage = float(input("Enter your percentage: "))
+if percentage > 90:
+    grade = 'A'
+elif percentage > 80:
+    grade = 'B'
+elif percentage >= 60:
+    grade = 'not applicable'
+
+
+
+
+
+
+
+
+
+
+
+
+ChatGPT can make mistakes
