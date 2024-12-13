@@ -1,0 +1,19 @@
+
+day = int(input("Enter a number between 1 and 7: "))
+
+# Dictionary to map numbers to days
+week = {
+    1: "Sunday",
+    2: "Monday",
+    3: "Tuesday",
+    4: "Wednesday",
+    5: "Thursday",
+    6: "Friday",
+    7: "Saturday"
+}
+
+# Check if the number is valid and display the corresponding day
+if 1 <= day <= 7:
+    print(f"The day is: {week[day]}")
+else:
+    print("Invalid input! Please enter a number between 1 and 7.")
