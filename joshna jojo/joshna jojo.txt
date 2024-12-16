@@ -1,3 +1,9 @@
 fruits=['apple','orange','mango']
 print('apple'in fruits)
 print('jack_fruit' in fruits)
+
+
+
+first='joshna'
+last='jojo'
+print(name+" "+last)
