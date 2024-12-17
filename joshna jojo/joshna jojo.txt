@@ -16,3 +16,25 @@ print(a)
 length = int(input ('enter the length in kg  '))
 result=length/1000
 print(result
+
+
+day 3
+
+import math
+a= int(input('enetr the number'))
+b=math.sqrt(a)
+print(b)
+
+
+
+import math
+a= int(input('enetr the number'))
+b=math.factorial (a)
+print(b)
+
+
+import math
+a= int(input('enetr the first side '))
+b= int(input('enter the secound side '))
+c=math.hypot(a,b)
+print(c)
