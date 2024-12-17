@@ -7,3 +7,12 @@ print('jack_fruit' in fruits)
 first='joshna'
 last='jojo'
 print(name+" "+last)
+
+a= (3+6)*6-9/3+20
+print(a)
+
+
+
+length = int(input ('enter the length in kg  '))
+result=length/1000
+print(result
